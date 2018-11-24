@@ -102,4 +102,4 @@ function generateList() {
 //   p1.innerHTML = ("lang : " + (Object.values(booksDetails)[i]).author);
 
 //   console.log(newList);
-}
+
